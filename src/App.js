@@ -7,8 +7,10 @@ function App() {
 
   return (
 
-    <div className="">
-      <div></div>
+    <div className="App">
+      <div className="buttons">
+        <Button> button</Button>
+      </div>
     </div>
 
   );
